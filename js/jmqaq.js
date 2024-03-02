@@ -14,6 +14,8 @@
 // setInterval('createtime()',250);
 // //console
 
+// if(xb.copy) document.body.oncopy=function(){alert('已复制所选内容。请务必遵守本站条约！');}
+
 console.clear();
 console.log('项目托管:https://github.com/');
 console.log('%Hallo World!','font-size:2em');
